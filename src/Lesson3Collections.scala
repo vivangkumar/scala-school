@@ -3,7 +3,7 @@
  * Scala Collection concepts
  * @author Vivan
  */
-object Collections {
+object Lesson3Collections {
   def main(args: Array[String]) = {
     // Lists
     val numbers = List(1, 2, 3)
