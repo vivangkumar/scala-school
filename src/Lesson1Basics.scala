@@ -17,7 +17,7 @@ object Lesson1Basics {
     println(name)
 
     // Functions
-    def addFive(m : Int): Int = m + 5
+    def addFive(m: Int): Int = m + 5
     val added = addFive(2)
     println(added)
 
